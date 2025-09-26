@@ -1,0 +1,92 @@
+{
+    "products": [
+        {
+            "id": "fibra-300",
+            "name": "Fibra 300 Mb",
+            "features": ["Fibra simétrica 300 Mb", "Llamadas ilimitadas a fijos", "50 min/mes a móviles"],
+            "price": {
+                "original": 34,
+                "discounted": 25,
+                "currency": "€",
+                "discount": "25%",
+                "period": "mes",
+                "duration": "Durante 12 meses. Sin permanencia",
+                "limited": true
+            },
+            "tag": "Más vendido",
+            "cta": "Contratar",
+            "link": "Más información",
+            "tracking": {
+                "utm_source": "google",
+                "utm_medium": "cpc",
+                "utm_campaign": "fibra_300"
+            }
+        },
+        {
+            "id": "fibra-600",
+            "name": "Fibra 600 Mb",
+            "features": ["Fibra simétrica 600 Mb", "Llamadas ilimitadas a fijos", "50 min/mes a móviles"],
+            "price": {
+                "original": 38,
+                "discounted": 30,
+                "currency": "€",
+                "discount": "20%",
+                "period": "mes",
+                "duration": "Durante 12 meses. Sin permanencia",
+                "limited": true
+            },
+            "cta": "Contratar",
+            "link": "Más información",
+            "tracking": {
+                "utm_source": "google",
+                "utm_medium": "cpc",
+                "utm_campaign": "fibra_600"
+            }
+        },
+        {
+            "id": "fibra-600",
+            "name": "Fibra 1 Gb",
+            "features": ["Fibra simétrica 1 Gb", "Llamadas ilimitadas a fijos", "50 min/mes a móviles"],
+            "price": {
+                "original": 48,
+                "discounted": 35,
+                "currency": "€",
+                "discount": "25%",
+                "period": "mes",
+                "duration": "Durante 12 meses. Sin permanencia",
+                "limited": true
+            },
+            "cta": "Contratar",
+            "link": "Más información",
+            "tracking": {
+                "utm_source": "google",
+                "utm_medium": "cpc",
+                "utm_campaign": "fibra_1gb"
+            }
+        },
+        {
+            "id": "fibra-movil-1gb",
+            "name": "Fibra 1 Gb y móvil",
+            "features": [
+                "Fibra simétrica 1 Gb",
+                "2 líneas móviles",
+                "TV: canales exclusivos M+",
+                "Dispositivo desde 0€/mes"
+            ],
+            "price": {
+                "discounted": 63,
+                "currency": "€",
+                "period": "mes",
+                "duration": "Sin permanencia",
+                "limited": false
+            },
+            "cta": "Contratar",
+            "link": "Más información",
+            "tracking": {
+                "utm_source": "google",
+                "utm_medium": "cpc",
+                "utm_campaign": "fibra_movil_1gb"
+            }
+        }
+    ]
+}
